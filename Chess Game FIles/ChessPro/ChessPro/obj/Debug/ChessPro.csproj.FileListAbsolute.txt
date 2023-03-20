@@ -1,0 +1,22 @@
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\bin\Debug\ChessPro.exe.config
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\bin\Debug\ChessPro.exe
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\bin\Debug\ChessPro.pdb
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.csprojAssemblyReference.cache
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.Properties.Resources.resources
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.csproj.GenerateResource.cache
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.csproj.CoreCompileInputs.cache
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.exe
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.pdb
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.Chess.resources
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Debug\ChessPro.Start_Menu.resources
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\bin\Debug\ChessPro.exe.config
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\bin\Debug\ChessPro.exe
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\bin\Debug\ChessPro.pdb
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.csprojAssemblyReference.cache
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.Chess.resources
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.Properties.Resources.resources
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.Start_Menu.resources
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.csproj.GenerateResource.cache
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.csproj.CoreCompileInputs.cache
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.exe
+C:\Users\tpccl\OneDrive\Desktop\work\Chess Game\Chess Game FIles\ChessPro\ChessPro\obj\Debug\ChessPro.pdb

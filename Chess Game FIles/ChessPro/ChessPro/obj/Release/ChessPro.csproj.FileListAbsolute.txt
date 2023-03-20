@@ -1,0 +1,10 @@
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\bin\Release\ChessPro.exe.config
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\bin\Release\ChessPro.exe
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\bin\Release\ChessPro.pdb
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Release\ChessPro.csprojAssemblyReference.cache
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Release\ChessPro.Chess.resources
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Release\ChessPro.Properties.Resources.resources
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Release\ChessPro.csproj.GenerateResource.cache
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Release\ChessPro.csproj.CoreCompileInputs.cache
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Release\ChessPro.exe
+C:\Users\tpccl\source\repos\ChessPro\ChessPro\obj\Release\ChessPro.pdb

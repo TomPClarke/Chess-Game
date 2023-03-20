@@ -1,0 +1,13 @@
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\obj\Debug\netcoreapp3.1\ChessProServer.csprojAssemblyReference.cache
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\obj\Debug\netcoreapp3.1\ChessProServer.AssemblyInfoInputs.cache
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\obj\Debug\netcoreapp3.1\ChessProServer.AssemblyInfo.cs
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\obj\Debug\netcoreapp3.1\ChessProServer.csproj.CoreCompileInputs.cache
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\bin\Debug\netcoreapp3.1\ChessProServer.exe
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\bin\Debug\netcoreapp3.1\ChessProServer.deps.json
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\bin\Debug\netcoreapp3.1\ChessProServer.runtimeconfig.json
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\bin\Debug\netcoreapp3.1\ChessProServer.runtimeconfig.dev.json
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\bin\Debug\netcoreapp3.1\ChessProServer.dll
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\bin\Debug\netcoreapp3.1\ChessProServer.pdb
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\obj\Debug\netcoreapp3.1\ChessProServer.dll
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\obj\Debug\netcoreapp3.1\ChessProServer.pdb
+C:\Users\tpccl\source\repos\ChessProServer\ChessProServer\obj\Debug\netcoreapp3.1\ChessProServer.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessPro", "ChessPro\ChessPro.csproj", "{0A61F790-359D-4280-9E24-8CBBD82DD630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A61F790-359D-4280-9E24-8CBBD82DD630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A61F790-359D-4280-9E24-8CBBD82DD630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A61F790-359D-4280-9E24-8CBBD82DD630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A61F790-359D-4280-9E24-8CBBD82DD630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CC1A750-FA13-4748-BE18-2E7225C9FEF0}
+	EndGlobalSection
+EndGlobal
